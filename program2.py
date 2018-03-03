@@ -16,6 +16,4 @@ elif time >=17 and time <=23:
            print("Вечер")
 
 elif time == 24:
-           print("Полночь")           
-
-print("bye")
+           print("Полночь")
