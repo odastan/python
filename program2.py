@@ -17,3 +17,5 @@ elif time >=17 and time <=23:
 
 elif time == 24:
            print("Полночь")           
+
+print("bye")
