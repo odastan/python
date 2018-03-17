@@ -1,5 +1,6 @@
-otvet = int(input("Сколько тебе лет? "))
-
- 
-otvet -= 2018
-print(-(otvet))
+def ras():
+       kol = int(input("Введите количество учеников: "))
+if kol <+ 15:
+   print("Отсуствует ученик")
+elif
+   print("Все ученики в классе") 
